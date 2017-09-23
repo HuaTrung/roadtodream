@@ -12,10 +12,10 @@
     * Balanced search trees (general concept, not details)
     * Traversals: preorder, inorder, postorder, BFS, DFS
  * More Basic Algorithms
-    * [Divide and conquer]
+    * [Divide and conquer](Backtracking/Brute Force/BruteForce.md)
     * [Backtracking](Backtracking/Backtracking.md)
-     * [Brute force](Backtracking/Brute Force/BruteForce.md)
-     * [Branch and Bound]
+      * [Brute force](Backtracking/Brute Force/BruteForce.md)
+      * [Branch and Bound]
     * [Greedy]
     * [Dynamic Programming]
      
