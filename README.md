@@ -13,8 +13,8 @@
     * Traversals: preorder, inorder, postorder, BFS, DFS
  * More Basic Algorithms
     * [Divide and conquer]
-    * [Backtracking] ( (Backtracking)
-      * [Brute force] (Backtracking/Brute Force/Binary Number ( BASIC )/BinaryNumber.md)
+    * [Backtracking](Backtracking/Backtracking.md)
+      * [Brute force](Backtracking/Brute Force)
       * [Branch and Bound]
     * [Greedy]
     * [Dynamic Programming]
