@@ -14,7 +14,7 @@
  * More Basic Algorithms
     * [Divide and conquer]
     * [Backtracking] ( (Backtracking)
-      * [Brute force] (Backtracking/Brute Force/)
+      * [Brute force] (Backtracking/Brute Force/Binary Number ( BASIC )/BinaryNumber.md)
       * [Branch and Bound]
     * [Greedy]
     * [Dynamic Programming]
