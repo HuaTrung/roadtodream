@@ -14,6 +14,7 @@ void print(){
     }
     cout<<endl;
 }
+//kjjh
 
 int sum=0;
 void solve(int x){
