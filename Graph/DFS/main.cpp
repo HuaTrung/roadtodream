@@ -115,7 +115,7 @@ int main()
     }
 
     //  recursion
-    cout<<endl<<"Path with recursion: ";
+    cout<<endl<<"Order browsing with recursion: ";
     trace[startVertex-1]=vertexs;
     solveRecursion(startVertex);
 
@@ -125,7 +125,7 @@ int main()
     }
 
     //  stack
-    cout<<endl<<"Path with stack: ";
+    cout<<endl<<"Order browsing with stack: ";
     solveStack();
 
     // assign every element in trace with value 0. It means every vertex unvisited
@@ -134,7 +134,7 @@ int main()
     }
 
     // without stack and recursion
-    cout<<endl<<"Path with stack: ";
+    cout<<endl<<"Order browsing with stack: ";
     solve();
 
     return 0;
